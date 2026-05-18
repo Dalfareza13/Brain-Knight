@@ -20,7 +20,11 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # Bagian Assets yang sudah diperbaiki:
   assets:
     - assets/Brain_Knight_0.png
     - assets/Brain_Knight_1.png
+    - assets/karakter/Ksatria_1.png
+    - assets/karakter/Ksatria_2.png
+    - assets/karakter/Ksatria_3.png
+    - assets/karakter/Ksatria_4.png
+    - assets/karakter/Ksatria_5.png
